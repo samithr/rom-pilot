@@ -1,0 +1,9 @@
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Domain\bin\Debug\netcoreapp3.1\RiskOnMind.Domain.deps.json
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Domain\bin\Debug\netcoreapp3.1\RiskOnMind.Domain.dll
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Domain\bin\Debug\netcoreapp3.1\RiskOnMind.Domain.pdb
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Domain\obj\Debug\netcoreapp3.1\RiskOnMind.Domain.AssemblyInfoInputs.cache
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Domain\obj\Debug\netcoreapp3.1\RiskOnMind.Domain.AssemblyInfo.cs
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Domain\obj\Debug\netcoreapp3.1\RiskOnMind.Domain.csproj.CoreCompileInputs.cache
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Domain\obj\Debug\netcoreapp3.1\RiskOnMind.Domain.dll
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Domain\obj\Debug\netcoreapp3.1\RiskOnMind.Domain.pdb
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Domain\obj\Debug\netcoreapp3.1\RiskOnMind.Domain.csproj.AssemblyReference.cache

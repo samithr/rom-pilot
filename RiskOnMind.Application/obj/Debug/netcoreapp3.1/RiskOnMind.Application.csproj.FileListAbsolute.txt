@@ -1,0 +1,12 @@
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Application\bin\Debug\netcoreapp3.1\RiskOnMind.Application.deps.json
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Application\bin\Debug\netcoreapp3.1\RiskOnMind.Application.dll
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Application\bin\Debug\netcoreapp3.1\RiskOnMind.Application.pdb
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Application\bin\Debug\netcoreapp3.1\RiskOnMind.Domain.dll
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Application\bin\Debug\netcoreapp3.1\RiskOnMind.Domain.pdb
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Application\obj\Debug\netcoreapp3.1\RiskOnMind.Application.csproj.AssemblyReference.cache
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Application\obj\Debug\netcoreapp3.1\RiskOnMind.Application.AssemblyInfoInputs.cache
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Application\obj\Debug\netcoreapp3.1\RiskOnMind.Application.AssemblyInfo.cs
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Application\obj\Debug\netcoreapp3.1\RiskOnMind.Application.csproj.CoreCompileInputs.cache
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Application\obj\Debug\netcoreapp3.1\RiskOnMind.Application.csproj.CopyComplete
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Application\obj\Debug\netcoreapp3.1\RiskOnMind.Application.dll
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Application\obj\Debug\netcoreapp3.1\RiskOnMind.Application.pdb

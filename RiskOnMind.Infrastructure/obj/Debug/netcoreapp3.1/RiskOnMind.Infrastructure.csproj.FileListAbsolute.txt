@@ -1,0 +1,17 @@
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Infrastructure\bin\Debug\netcoreapp3.1\RiskOnMind.Infrastructure.deps.json
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Infrastructure\bin\Debug\netcoreapp3.1\RiskOnMind.Infrastructure.runtimeconfig.json
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Infrastructure\bin\Debug\netcoreapp3.1\RiskOnMind.Infrastructure.runtimeconfig.dev.json
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Infrastructure\bin\Debug\netcoreapp3.1\RiskOnMind.Infrastructure.dll
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Infrastructure\bin\Debug\netcoreapp3.1\RiskOnMind.Infrastructure.pdb
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Infrastructure\bin\Debug\netcoreapp3.1\RiskOnMind.Application.dll
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Infrastructure\bin\Debug\netcoreapp3.1\RiskOnMind.Domain.dll
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Infrastructure\bin\Debug\netcoreapp3.1\RiskOnMind.Application.pdb
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Infrastructure\bin\Debug\netcoreapp3.1\RiskOnMind.Domain.pdb
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Infrastructure\obj\Debug\netcoreapp3.1\RiskOnMind.Infrastructure.csproj.AssemblyReference.cache
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Infrastructure\obj\Debug\netcoreapp3.1\RiskOnMind.Infrastructure.AssemblyInfoInputs.cache
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Infrastructure\obj\Debug\netcoreapp3.1\RiskOnMind.Infrastructure.AssemblyInfo.cs
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Infrastructure\obj\Debug\netcoreapp3.1\RiskOnMind.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Infrastructure\obj\Debug\netcoreapp3.1\RiskOnMind.Infrastructure.csproj.CopyComplete
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Infrastructure\obj\Debug\netcoreapp3.1\RiskOnMind.Infrastructure.dll
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Infrastructure\obj\Debug\netcoreapp3.1\RiskOnMind.Infrastructure.pdb
+D:\Personal\CleanArchitecture\RiskOnMind\RiskOnMind.Infrastructure\obj\Debug\netcoreapp3.1\RiskOnMind.Infrastructure.genruntimeconfig.cache
